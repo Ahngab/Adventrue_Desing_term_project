@@ -13,10 +13,13 @@ Sordering Machine, Iron stick, Cable, LEDS*216, Bread-Board, UNO-Board, 100(Ohm)
 We used "Arduino(cpp) code" to control Cube.
 #### Order of Sensors
 Photo Resistor: Low Value  => Low level LEDs ON
+
                 High Value => Low to High level LEDs ON
 
 Ultrasonic Sensor: Low Value  => Low Flipflop Frequency
+
                    High Value => High Flipflop Frequency
 
 Pressure Sensor: Low Value  => Low Intensity of LED
+
                  High Value => High Intensity of LED
