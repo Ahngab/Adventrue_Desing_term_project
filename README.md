@@ -4,6 +4,7 @@ We use [Immitation video](https://www.youtube.com/watch?v=T5Aq7cRc-mU) method to
 
 ## Hardware
 We use "UNO-Board microprocessor" and "Ardiono Sensor Kit" for this project. 
-### 1. Kinds of Sensors
+#### 1. Kinds of Sensors
 Photo Resistor, Ultrasonic Sensor, Pressure Sensor, Sound Sensor and Flow Sensor
-### 2. 
+#### 2. Materials
+Sordering Machine, Iron stick, Cable, LEDS*216, Bread-Board, UNO-Board, 100(Ohm) Resistors*6, 
